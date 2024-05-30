@@ -1,6 +1,6 @@
 # Building a RAG pipeline from scratch
 
-Local RAG pipeline we're going to build:
+Local RAG pipeline I've build:
 
 ![image](https://github.com/Raghoeveer/RAG_pipeline_from_scratch/assets/130668192/b7a3e96b-2c1b-4fc0-8375-bdf7151973b2)
 
